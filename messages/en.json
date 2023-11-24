@@ -1,0 +1,55 @@
+{
+    "header": {
+        "service": "Services",
+        "contact": "Contact",
+        "aboutus": "About Us",
+        "languages": "Languages",
+        "faq": "FAQ",
+        "English": "English",
+        "Spanish": "Spanish"
+    },
+    "hero": {
+        "para1":"We enhance your efficiency and competitiveness with specialized ",
+        "para2":"B2B solutions."
+    },
+    "service": {
+        "para":"We achieve outstanding results by enhancing processes and efficiently managing costs.",
+        "Title1":"Optimizing",
+        "Title2":"Processes"
+    },
+    "sectionTwo": {
+        "para":"Our corporate solutions possess the necessary potential to propel your organization forward.",
+        "Title1":"Corporate",
+        "Title2":"Solutions"
+    },
+    "sectionThree": {
+        "para1":"Global-level business structures, centralized for easy and remote management.",
+        "para2":"Strategic banking agreements for enhanced asset management.",
+        "Title1":"Global Business",
+        "Title2":"Centralization",
+        "Title3":"Assets ",
+        "Title4":"Banking"
+    },
+    "about": {
+        "nation": "Central America",
+        "terms": "Terms & Conditions",
+        "cookies": "Cookies Policy",
+        "disclaimer": "Disclaimer"
+    },
+    "contact": {
+        "title":"Please feel free to contact us anytime!",
+        "label": {
+          "1":"Your Email",
+          "2":"Your Message"
+        },
+        "placeholder": {
+          "1":"Enter your email",
+          "2":"Enter your Message"
+        },
+        "submit" : {
+            "1":"Submit",
+            "2":"Again",
+            "3":"Sending.."
+        }
+      }
+}

@@ -1,0 +1,55 @@
+{
+    "header": {
+        "service": "Servicios",
+        "contact": "Contacto",
+        "aboutus": "Sobre nosotras",
+        "languages": "Idioma",
+        "faq": "FAQ",
+        "English": "English",
+        "Spanish": "Spanish"
+    },
+    "hero": {
+        "para1":"Mejoramos la eficiencia y competitividad con soluciones ",
+        "para2":"B2B especializadas."
+    },
+    "service": {
+        "para":"Generamos resultados favorables simplificando procesos y optimizanos los costos operativos paraun resultado excepcional.",
+        "Title1":"Procesos",
+        "Title2":"optimizados"
+    },
+    "sectionTwo": {
+        "para":"Ofrecemos soluciones corporativas de primer nivel, con el potencial necesario para impulsar y consolidar los resultados finales de su empresa.",
+        "Title1":"Soluciones",
+        "Title2":"corporativas"
+    },
+    "sectionThree": {
+        "para1":"Expansión mundial en jurisdicciones estratégicas, limitando la responsabilidad con estructuras corporativas favorables y optimizando los costos para una mayor ganancia y ágil crecimiento.",
+        "para2":"Nos especializamos en la administración de activos y en facilitar relaciones bancarias y financieras en países estratégicos para todos nuestros clientes.",
+        "Title1":"Expansión",
+        "Title2":"globalizada",
+        "Title3":"Consultoría ",
+        "Title4":"financiera"
+    },
+    "about": {
+        "nation": "Centroamerica",
+        "terms": "Terminos y condiciones",
+        "cookies": "Politica de privacidad",
+        "disclaimer": "Descargo de responsabilidad"
+    },
+    "contact": {
+        "title":"¡No dude en contactarnos en cualquier momento",
+        "label": {
+          "1":"Tu correo electrónico",
+          "2":"Tu mensaje"
+        },
+        "placeholder": {
+          "1":"Introduce tu correo electrónico",
+          "2":"Ingrese su mensaje"
+        },
+        "submit" : {
+            "1":"Entregar",
+            "2":"de nuevo",
+            "3":"Enviando..."
+        }
+      }
+}
